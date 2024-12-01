@@ -7215,7 +7215,7 @@
 		(uuid "3d8f57a5-64a8-49e8-b998-981ddca8171d")
 	)
 	(label "row_3"
-		(at 108.839 241.3 180)
+		(at 109.22 228.6 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7325,7 +7325,7 @@
 		(uuid "6b39190f-035e-44c1-aa70-6b9e6bf8d762")
 	)
 	(label "row_0"
-		(at 108.966 223.52 180)
+		(at 109.22 241.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7380,7 +7380,7 @@
 		(uuid "77f02c07-c854-4b66-bd3e-61e40a560bf9")
 	)
 	(label "row_1"
-		(at 108.966 226.06 180)
+		(at 109.22 223.52 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7479,7 +7479,7 @@
 		(uuid "9237cc53-8793-4bd9-a6dc-34463752e121")
 	)
 	(label "row_2"
-		(at 108.839 228.6 180)
+		(at 109.22 226.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7820,7 +7820,7 @@
 		(uuid "ddb2ff1a-3bfd-4b02-9bc0-bfab2038e79d")
 	)
 	(label "row_4"
-		(at 28.321 241.3 0)
+		(at 27.94 241.3 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
